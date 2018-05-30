@@ -1,0 +1,68 @@
+[
+    {
+        "pk": 1,
+        "model": "accounts.regions",
+        "fields": {
+            "updated": "2018-04-10 10:36:12.97949+00",
+            "code": 2,
+            "mode": "A",
+            "name": "Africa",
+            "created": "2018-04-10 10:36:12.97949+00"
+        }
+    },
+    {
+        "pk": 2,
+        "model": "accounts.regions",
+        "fields": {
+            "updated": "2018-04-10 10:36:12.97949+00",
+            "code": 19,
+            "mode": "A",
+            "name": "Americas",
+            "created": "2018-04-10 10:36:12.97949+00"
+        }
+    },
+    {
+        "pk": 3,
+        "model": "accounts.regions",
+        "fields": {
+            "updated": "2018-04-10 10:36:12.97949+00",
+            "code": 0,
+            "mode": "A",
+            "name": "Antarctica",
+            "created": "2018-04-10 10:36:12.97949+00"
+        }
+    },
+    {
+        "pk": 4,
+        "model": "accounts.regions",
+        "fields": {
+            "updated": "2018-04-10 10:36:12.97949+00",
+            "code": 142,
+            "mode": "A",
+            "name": "Asia",
+            "created": "2018-04-10 10:36:12.97949+00"
+        }
+    },
+    {
+        "pk": 5,
+        "model": "accounts.regions",
+        "fields": {
+            "updated": "2018-04-10 10:36:12.97949+00",
+            "code": 150,
+            "mode": "A",
+            "name": "Europe",
+            "created": "2018-04-10 10:36:12.97949+00"
+        }
+    },
+    {
+        "pk": 6,
+        "model": "accounts.regions",
+        "fields": {
+            "updated": "2018-04-10 10:36:12.97949+00",
+            "code": 9,
+            "mode": "A",
+            "name": "Oceania",
+            "created": "2018-04-10 10:36:12.97949+00"
+        }
+    }
+]
